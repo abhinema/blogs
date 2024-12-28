@@ -1,2 +1,2 @@
 # Index
-- [Basics](AI-ML_Basics.md)
+- [Basics](./AI-ML_Basics.md)
